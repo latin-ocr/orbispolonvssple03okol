@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./orbispolonvssple03okol/orbispolonvssple03okol_0002.png"; bbox 0 0 1900 2595; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 20 77 255 291">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 20 77 255 291">
+     <span class='ocr_line' id='line_1_1' title="bbox 24 77 255 120; baseline 0.026 -6"><span class='ocrx_word' id='word_1_1' title='bbox 24 77 255 120; x_wconf 72' lang='lat'>9290738</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 20 135 154 174; baseline 0.007 -1"><span class='ocrx_word' id='word_1_2' title='bbox 20 135 154 174; x_wconf 83' lang='lat' dir='ltr'>Ok50</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 22 193 114 233; baseline 0.011 -3"><span class='ocrx_word' id='word_1_3' title='bbox 22 193 114 233; x_wconf 77' lang='lat' dir='ltr'>v.3</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 20 247 251 291; baseline 0.017 -4"><span class='ocrx_word' id='word_1_4' title='bbox 20 247 251 291; x_wconf 78' lang='grc'>1686469</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1032 779 1815 884">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1032 779 1815 884">
+     <span class='ocr_line' id='line_1_5' title="bbox 1066 779 1783 832; baseline 0.021 -15"><span class='ocrx_word' id='word_1_5' title='bbox 1066 779 1783 832; x_wconf 58' lang='lat' dir='ltr'><strong>REYNOLDsffflSTOfflCAL</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1032 836 1815 884; baseline 0.013 -9"><span class='ocrx_word' id='word_1_6' title='bbox 1032 836 1403 880; x_wconf 65' lang='lat' dir='ltr'>GENEALOGY</span> <span class='ocrx_word' id='word_1_7' title='bbox 1434 842 1815 884; x_wconf 67' lang='lat' dir='ltr'><strong>COLLECTION</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
